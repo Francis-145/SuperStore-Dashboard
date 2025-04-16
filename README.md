@@ -11,6 +11,8 @@ To analyze and visualize Superstore sales data using Power BI, enabling stakehol
 - Product performance and subcategories
 - Profitability and delivery timelines
 
+##  Dataset Used : <a href="https://github.com/Francis-145/SuperStore-Dashboard/blob/main/Orders.xlsx">Click Here </a>
+
 ## 🔧 Tools & Technologies
 
 - **Power BI**
